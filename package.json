@@ -1,0 +1,24 @@
+{
+  "name": "awp-hw1-partb",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/SeojunKim-pumisj/AWP-HW1-partB#readme",
+  "bugs": {
+    "url": "https://github.com/SeojunKim-pumisj/AWP-HW1-partB/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeojunKim-pumisj/AWP-HW1-partB.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
